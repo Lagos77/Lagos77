@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Alexander from Sweden and I'm currently a student in application development. There is nothing better for me than learning new things everyday and that's what I feel about being an developer. 
+I'm Alexander from Sweden and I'm currently a student in application development. There is nothing better for me than learning new things everyday and that's what I like about being a developer
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lagos77)](https://github.com/anuraghazra/github-readme-stats)
 <!--
