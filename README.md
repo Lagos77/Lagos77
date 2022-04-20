@@ -1,7 +1,5 @@
 ![Developer](https://github.com/Lagos77/Github-Banner/blob/master/helloworldbanner.jpg)
 
-I'm Alexander from Sweden, and I'm currently a student in application development. I really enjoy learning new languages such as new techniques in problem solving. 
-
 - 🔭 I’m currently working on this page
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on a private project for summer
@@ -20,6 +18,8 @@ Skills: KOTLIN / SWIFT / REACT / JS / HTML / CSS
 ### Hi there 👋
 #### Developer
 **Lagos77/Lagos77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I'm Alexander from Sweden, and I'm currently a student in application development. I really enjoy learning new languages such as new techniques in problem solving. 
 
 Here are some ideas to get you started:
 
