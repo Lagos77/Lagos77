@@ -2,7 +2,7 @@
 #### Developer
 ![Developer](https://github.com/Lagos77/Github-Banner/blob/master/helloworldbanner.jpg)
 
-I'm Alexander from Sweden and I'm currently a student in application development. There is nothing better for me than learning new things everyday.
+I'm Alexander from Sweden and I'm currently a student in application development.
 
 Skills: KOTLIN / SWIFT / REACT / JS / HTML / CSS
 
