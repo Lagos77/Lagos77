@@ -1,15 +1,16 @@
-### Hi there 👋, I'm Alexander
+### Hi there 👋
 #### Developer
 ![Developer](https://github.com/Lagos77/Github-Banner/blob/master/helloworldbanner.jpg)
 
+I'm Alexander from Sweden, and I'm currently a student in application development. I really enjoy learning new languages such as new techniques in problem solving. 
+
+- 🔭 I’m currently working on this page
 - 🌱 I’m currently learning React
-- 💬 Ask me about anything
+- 👯 I’m looking to collaborate on a private project for summer
 - 📫 How to reach me: (working on it too..)
 - ⚡ Fun fact: I've cutting my own hair for 2 years now
 
 Skills: KOTLIN / SWIFT / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lagos77&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lagos77)](https://github.com/anuraghazra/github-readme-stats) 
 
