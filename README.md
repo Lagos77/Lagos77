@@ -2,7 +2,6 @@
 #### Developer
 ![Developer](https://github.com/Lagos77/Github-Banner/blob/master/helloworldbanner.jpg)
 
-- 🔭 I’m currently working on my Github portfolio
 - 🌱 I’m currently learning React
 - 💬 Ask me about anything
 - 📫 How to reach me: (working on it too..)
